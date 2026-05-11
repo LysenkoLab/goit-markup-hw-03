@@ -1,0 +1,60 @@
+
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    color:#434455;
+    line-height:1.5;
+    letter-spacing: 0.02em;
+    background-color: #fff;
+    }
+
+.section-title {
+    color:#2E2F42;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+.text-title {
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+    color:#2e2f42;
+    letter-spacing: 0.02em;
+}
+
+.list {
+    background-color: #fff;
+}
+
+.logo {
+    font-size: 18px;
+    line-height: 1.33;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
+
+.logo span {
+    color: #4d5ae5;
+}
+
+.footer .text {
+    color: #f4f4fd;
+}
+
+.footer .logo {
+    color: #f4f4fd;
+}
