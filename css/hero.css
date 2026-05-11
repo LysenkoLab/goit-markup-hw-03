@@ -1,5 +1,6 @@
 .hero {
-    background-color: #2e2f42
+    background-color: #2e2f42;
+    padding: 188px 141px;
 }
 
 .hero-title {
@@ -7,6 +8,8 @@
     line-height: 1.07;
     text-align: center;
     color: #fff;
+    margin-bottom: 48px;
+    max-width:496px;
 }
 
 .hero .button {
@@ -17,8 +20,19 @@
     background-color: #4d5ae5;
     color: #fff;
     cursor: pointer;
+    padding:16px 32px;
+    border-radius:4px;
+
 }
 
 .hero .button:hover, .hero .button:focus {
     background-color: #404bbf;
+}
+
+.hero .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:0 15px;
+
 }
