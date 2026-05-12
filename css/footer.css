@@ -5,3 +5,15 @@
 .footer .logo {
     color: #f4f4fd;
 }
+
+.footer-wrapper {
+   padding-right: 864px;
+}
+
+.footer-wrapper .text {
+    margin-top: 16px;
+}
+
+.footer {
+    padding:100px 0;
+}

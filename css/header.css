@@ -1,7 +1,6 @@
 .header {
     background-color: #ffffff;
-    padding:0 141px;
-    boreder-bottom: 1px solid #E7E9FC;
+    border-bottom: 1px solid #E7E9FC;
 }
 
 .header .header-nav li {
@@ -37,7 +36,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding:0 15px;
 }
 
 .nav-list {
