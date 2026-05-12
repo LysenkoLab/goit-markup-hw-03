@@ -24,3 +24,7 @@
 .team-list .text-title {
     margin-bottom: 8px;
 }
+
+.team-list .list {
+    border-radius: 0 0 4px 4px;
+}

@@ -40,20 +40,23 @@
 
 .nav-list {
     display: flex;
+    justify-content: flex-start;
     gap: 40px;
+    padding-left: 76px;
 }
 
 .header .header-nav {
-    flex-grow: 1;
-}
-
-.header .logo {
-    padding-right: 76px;
-    padding-top: 24px;
-    padding-bottom: 24px;
+   flex-grow: 1;
 }
 
 .contacts-list {
     display: flex;
+    justify-content: right;
     gap: 40px;
+    padding: 24px 0;
+}
+
+.nav-link {
+    display:block;
+    padding: 24px 0;
 }
